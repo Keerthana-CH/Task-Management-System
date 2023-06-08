@@ -19,3 +19,5 @@
 #### 7.Now the XAMPP icon is clearly visible on the right side of start menu. Show or Hide can be set by using the control panel by clicking on the icon.
 #### 8.To start Apache and MySql, just click on the Start button on the control panel. 
 #### Note: In XAMPP, the configuration files of Apache, MySQL, PHP are located in C:\Program Files\xampp. For any configuration file changes, you need to restart Apache and MySQL.
+
+#### 9.Now copy the downloaded repository in this path in C:\Program Files\xampp\htdocs
