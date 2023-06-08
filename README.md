@@ -21,3 +21,4 @@
 #### Note: In XAMPP, the configuration files of Apache, MySQL, PHP are located in C:\Program Files\xampp. For any configuration file changes, you need to restart Apache and MySQL.
 
 #### 9.Now copy the downloaded repository in this path in C:\Program Files\xampp\htdocs
+#### 10.Now open a browser and copy this url in browser "http://localhost/TMS/index.php". In place of TMS it should be the folder name in which all the above files consist.
